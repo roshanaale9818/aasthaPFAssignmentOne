@@ -1,0 +1,3 @@
+Quarter 1 Revenue (25%) Quarter 2 Revenue (25%) Quarter 3 Revenue (25%) Quarter 4 Revenue (25%) Employee ID
+30000.00 32000.00 31000.00 33000.00 e45678
+25000.00 35000.00 27000.00 34000.00 e56789
